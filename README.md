@@ -33,13 +33,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pukhrajgodara58&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pukhrajgodara58&layout=compact&theme=tokyonight)  
-
----
-
 ## 🤝 Connect With Me  
 
 <p align="left">
