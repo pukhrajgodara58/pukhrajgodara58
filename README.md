@@ -1,9 +1,6 @@
 # Hi there 👋, I'm Pukhraj Godara  
 
-💻 **Aspiring AI & ML Enthusiast | Full-Stack Developer in Progress**  
-🚀 Passionate about building intelligent systems and modern web applications.  
-
----
+💻 **Aspiring AI & ML Enthusiast**
 
 ## 🔥 About Me  
 - 🎓 Computer Science Student | Exploring **AI, ML, and Data Science**  
